@@ -19,10 +19,12 @@ It’s written with **API + integration-heavy environments** in mind (payments-s
 - `POSTMAN\_TRIAGE\_GUIDE.md` — using Postman effectively during incidents
 
 
+
 ## Quick start
 - Handling an incident now? Start with `RUNBOOK_API_INCIDENTS.md`
 - Writing the incident report? Use `RCA_TEMPLATE.md`
 - Improving reliability? Use `LOGGING_GUIDE_DOTNET.md` and update the checklists
+
 
 
 ## Who it’s for
@@ -35,17 +37,17 @@ It’s written with **API + integration-heavy environments** in mind (payments-s
 
 
 
-\## How to use
+## How to use
 
-1\. During an incident: start with `RUNBOOK\_API\_INCIDENTS.md`
+1. During an incident: start with `RUNBOOK\_API\_INCIDENTS.md`
 
-2\. After service is restored: document the RCA using `RCA\_TEMPLATE.md`
+2. After service is restored: document the RCA using `RCA\_TEMPLATE.md`
 
-3\. Improve future response: update checklists/runbooks with lessons learned
+3. Improve future response: update checklists/runbooks with lessons learned
 
 
 
-\## License
+## License
 
 MIT (recommended) or your preferred license.
 
