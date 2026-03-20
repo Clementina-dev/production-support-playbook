@@ -1,13 +1,9 @@
-\# Production Support Playbook (APIs \& Integrations)
 
+# Production Support Playbook (APIs & Integrations)
 
+A practical, reusable playbook for supporting real-world backend systems in production—focused on fast triage, clear communication, root cause analysis (RCA), and prevention of recurring incidents.
 
-A practical playbook for \*\*production support\*\*, \*\*incident response\*\*, and \*\*root cause analysis (RCA)\*\* for backend APIs—especially payments/integrations-style systems.
-
-
-
-This repo is portfolio-focused and based on real-world operating patterns: fast triage, clear communication, safe fixes, and preventing recurrence.
-
+It’s written with **API + integration-heavy environments** in mind (payments-style flows, partner dependencies, retries/timeouts, data correctness), and is intended to be copied into teams and adapted.
 
 
 \## What’s inside
