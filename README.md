@@ -8,15 +8,15 @@ It’s written with **API + integration-heavy environments** in mind (payments-s
 
 ## What’s inside
 
-- `RCA\_TEMPLATE.md` — a complete RCA template you can reuse
+- `RCA_TEMPLATE.md` — a complete RCA template you can reuse
 
-- `RUNBOOK\_API\_INCIDENTS.md` — troubleshooting steps for common API incident types
+- `RUNBOOK_API_INCIDENTS.md` — troubleshooting steps for common API incident types
 
 - `CHECKLISTS.md` — quick checklists for on-call and post-incident actions
 
-- `LOGGING\_GUIDE\_DOTNET.md` — structured logging + correlation IDs (Serilog-focused)
+- `LOGGING_GUIDE_DOTNET.md` — structured logging + correlation IDs (Serilog-focused)
 
-- `POSTMAN\_TRIAGE\_GUIDE.md` — using Postman effectively during incidents
+- `POSTMAN_TRIAGE_GUIDE.md` — using Postman effectively during incidents
 
 
 
@@ -28,20 +28,16 @@ It’s written with **API + integration-heavy environments** in mind (payments-s
 
 
 ## Who it’s for
-
 - Backend developers supporting live systems
-
 - Engineers working on payments/integrations where correctness and stability matter
-
 - Anyone looking to improve incident handling and reduce repeat outages
-
 
 
 ## How to use
 
-1. During an incident: start with `RUNBOOK\_API\_INCIDENTS.md`
+1. During an incident: start with `RUNBOOK_API_INCIDENTS.md`
 
-2. After service is restored: document the RCA using `RCA\_TEMPLATE.md`
+2. After service is restored: document the RCA using `RCA_TEMPLATE.md`
 
 3. Improve future response: update checklists/runbooks with lessons learned
 
