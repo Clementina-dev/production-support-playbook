@@ -18,7 +18,10 @@ It’s written with **API + integration-heavy environments** in mind (payments-s
 
 \- `POSTMAN\_TRIAGE\_GUIDE.md` — using Postman effectively during incidents
 
-
+## Quick start
+- Handling an incident now? Start with `RUNBOOK_API_INCIDENTS.md`
+- Writing the incident report? Use `RCA_TEMPLATE.md`
+- Improving reliability? Use `LOGGING_GUIDE_DOTNET.md` and update the checklists
 
 \## Who it’s for
 
