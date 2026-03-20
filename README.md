@@ -6,30 +6,32 @@ A practical, reusable playbook for supporting real-world backend systems in prod
 It’s written with **API + integration-heavy environments** in mind (payments-style flows, partner dependencies, retries/timeouts, data correctness), and is intended to be copied into teams and adapted.
 
 
-\## What’s inside
+## What’s inside
 
-\- `RCA\_TEMPLATE.md` — a complete RCA template you can reuse
+- `RCA\_TEMPLATE.md` — a complete RCA template you can reuse
 
-\- `RUNBOOK\_API\_INCIDENTS.md` — troubleshooting steps for common API incident types
+- `RUNBOOK\_API\_INCIDENTS.md` — troubleshooting steps for common API incident types
 
-\- `CHECKLISTS.md` — quick checklists for on-call and post-incident actions
+- `CHECKLISTS.md` — quick checklists for on-call and post-incident actions
 
-\- `LOGGING\_GUIDE\_DOTNET.md` — structured logging + correlation IDs (Serilog-focused)
+- `LOGGING\_GUIDE\_DOTNET.md` — structured logging + correlation IDs (Serilog-focused)
 
-\- `POSTMAN\_TRIAGE\_GUIDE.md` — using Postman effectively during incidents
+- `POSTMAN\_TRIAGE\_GUIDE.md` — using Postman effectively during incidents
+
 
 ## Quick start
 - Handling an incident now? Start with `RUNBOOK_API_INCIDENTS.md`
 - Writing the incident report? Use `RCA_TEMPLATE.md`
 - Improving reliability? Use `LOGGING_GUIDE_DOTNET.md` and update the checklists
 
-\## Who it’s for
 
-\- Backend developers supporting live systems
+## Who it’s for
 
-\- Engineers working on payments/integrations where correctness and stability matter
+- Backend developers supporting live systems
 
-\- Anyone looking to improve incident handling and reduce repeat outages
+- Engineers working on payments/integrations where correctness and stability matter
+
+- Anyone looking to improve incident handling and reduce repeat outages
 
 
 
